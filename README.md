@@ -6,7 +6,7 @@ Key goal: Reduce customer churn và churn rate
 - Level manager của công ty viễn thông
 2. Mục đích của báo cáo là gì? 
 - To give churn situation of all users
-- To identify and futher draw insight from churn users from all users
+- To identify and further draw insight from churn users from all users
 3. Mong muốn của người xem báo cáo? 
 - Đưa ra giải pháp giảm tỉ lệ Customer Churn
 
